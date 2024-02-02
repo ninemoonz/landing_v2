@@ -1,0 +1,36 @@
+@import url('https://fonts.cdnfonts.com/css/hero-new');
+
+body {
+    font-family: 'Hero New', sans-serif;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;    
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-container,
+.main-container,
+footer {
+    background-color: #1F2937;
+}
+
+.info-container {
+    background-color: white;
+}
+
+.quote-container {
+    background-color: #E5E7EB;
+}
+
+.nav-container,
+footer {
+    color: #F9FAF8;
+}
+
+.main-container,
+.info-container,
+.quote-container {
+    display: flex;
+    flex: 1;
+}
