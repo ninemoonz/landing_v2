@@ -1,0 +1,15 @@
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 12%;
+}
+
+.right-nav-container {
+    display: flex;
+    gap: 32px;
+}
+
+.header-logo {
+    font-size: 24px;
+    font-weight: 800;
+}
