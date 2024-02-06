@@ -4,7 +4,7 @@ body {
     font-family: 'Hero New', sans-serif;
     margin: 0;
     width: 100vw;
-    height: 100vh;    
+    height: 200vh;    
     display: flex;
     flex-direction: column;
 }
@@ -33,4 +33,6 @@ footer {
 .quote-container {
     display: flex;
     flex: 1;
+    border: 1px solid red;
+    padding: 24px 10%;
 }
