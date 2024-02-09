@@ -1,0 +1,24 @@
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+.quote-card {
+    width: 60%;
+}
+
+.quote-box {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    margin-bottom: 20px;
+}
+
+.quote-name {
+    font-size: 20px;
+    text-align: right;
+    font-weight: 800;
+}
