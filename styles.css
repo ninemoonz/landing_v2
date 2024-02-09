@@ -31,8 +31,6 @@ footer {
 .main-container,
 .info-container,
 .quote-container {
-    display: flex;
-    flex: 1;
     border: 1px solid red;
     padding: 24px 10%;
 }

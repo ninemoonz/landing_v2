@@ -1,0 +1,34 @@
+.info-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 48px;
+    padding-bottom: 96px;
+}
+
+.info-header {
+    font-size: 32px;
+    font-weight: 900;
+    margin-bottom: 32px;
+}
+
+.picture-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.picture-card {
+    text-align: center;
+    width: 256px;
+}
+
+.picture-box {
+    border: 3px solid #3882F6;
+    border-radius: 10px;
+    width: 256px;
+    height: 256px;
+    margin-bottom: 8px;
+}
