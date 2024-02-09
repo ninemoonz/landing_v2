@@ -2,6 +2,7 @@
     display: flex;
     justify-content: space-between;
     padding: 20px 12%;
+    align-items: center;
 }
 
 .right-nav-container {

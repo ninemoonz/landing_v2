@@ -1,0 +1,33 @@
+.ad-container {
+    display: flex;
+    justify-content: center;
+}
+
+.ad-card {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    background-color: #3882F6;
+    border-radius: 8px;
+    padding: 32px 56px;
+    margin: 50px 0;
+}
+
+.ad-text {
+    color:aliceblue;
+}
+
+.ad-title {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.ad-button {
+    background-color: #3882F6;
+    color: aliceblue;
+    border: solid aliceblue;
+    border-radius: 5px;
+    padding: 0 32px;
+    font-weight: 800;
+    font-size: 16px;
+}
